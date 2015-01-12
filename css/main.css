@@ -71,3 +71,7 @@ img {
 .panel {
     border-image: url("..images/border.png") 
 }
+
+.words {
+    text-align: left;
+}
