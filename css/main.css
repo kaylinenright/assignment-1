@@ -67,3 +67,7 @@ img {
     background-color: #e7e5d9;
     display: inline-block;
 }
+
+.panel {
+    border-image: url("..images/border.png") 
+}
